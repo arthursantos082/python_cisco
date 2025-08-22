@@ -35,7 +35,7 @@ Este repositório contém os materiais e exercícios da disciplina **Técnicas d
 
 Para ter uma cópia local do repositório, use o seguinte comando:
 
-```bash
+
 git clone [https://github.com/nome-do-usuario/nome-do-repositorio.git](https://github.com/nome-do-usuario/nome-do-repositorio.git)
 
 ---
